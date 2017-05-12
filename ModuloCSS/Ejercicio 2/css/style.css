@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: verdana;
+  }
+  h1 {
+    font-family: Arial;
+  }
+P {
+  font-family: verdana;
+}
+div{
+  margin-top: 10px;
+  margin-left: 20px
+   }
+a {color: inherit;
+  }
